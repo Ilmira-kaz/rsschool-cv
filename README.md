@@ -1,1 +1,1 @@
-[https://github.com/Ilmira-kaz/rsschool-cv/cv](https://github.com/Ilmira-kaz/rsschool-cv/cv)
+[https://Ilmira-kaz.github.io/rsschool-cv/cv](https://Ilmira-kaz.github.io/rsschool-cv/cv)
